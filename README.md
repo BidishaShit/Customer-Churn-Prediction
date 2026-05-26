@@ -412,8 +412,3 @@ This project demonstrates how Machine Learning can be applied to customer retent
 
 By combining data preprocessing, feature engineering, and the XGBoost algorithm, the system effectively predicts customer churn and provides actionable business insights for improving customer retention.
 
----
-
-# Author
-
-Developed as a Machine Learning Customer Churn Prediction Project using Python and XGBoost.
